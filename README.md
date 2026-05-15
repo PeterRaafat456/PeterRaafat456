@@ -34,8 +34,8 @@ I transform raw data into actionable intelligence through predictive modeling, i
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-AA4444?style=flat-square&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -48,7 +48,27 @@ I transform raw data into actionable intelligence through predictive modeling, i
 
 ## 📊 Featured Projects
 
-### 🏆 1. Customer Churn Prediction
+### 🏆 1. Garbage Classification — CNN (ResNet50 Transfer Learning)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![ResNet50](https://img.shields.io/badge/ResNet50-Transfer_Learning-orange?style=flat-square)
+![CNN](https://img.shields.io/badge/CNN-Deep_Learning-blueviolet?style=flat-square)
+![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+
+> End-to-end deep learning pipeline for **multi-class garbage image classification** using ResNet50 with a custom classifier head, data augmentation, early stopping, and full training analysis dashboards.
+
+- ✅ ResNet50 backbone with custom multi-layer classification head
+- ✅ Dataset: Garbage Classification V2 (Kaggle) — auto train/val/test split (60/20/20)
+- ✅ Training: 30 epochs · AdamW · StepLR scheduler · gradient clipping · early stopping
+- ✅ Rich augmentation: random crop, flip, rotation, color jitter, affine transforms
+- ✅ Outputs: confusion matrix, per-class accuracy chart, 9-panel training analysis
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pNF1c0elP3lxvuVYonhMnD1UHPHFx5eA)
+&nbsp;
+[![View Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/PeterRaafat456/Garbage-Classification-CNN)
+
+---
+
+### 🏆 2. Customer Churn Prediction
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-AA4444?style=flat-square)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -61,11 +81,11 @@ I transform raw data into actionable intelligence through predictive modeling, i
 - ✅ Built automated Power BI dashboards for KPI tracking
 - ✅ Delivered insights improving marketing ROI by 20%
 
-🔗 [Open in Google Colab](#)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
 
 ---
 
-### 🏆 2. ML Desktop Application
+### 🏆 3. ML Desktop Application
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1F6AA5?style=flat-square)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -78,11 +98,11 @@ I transform raw data into actionable intelligence through predictive modeling, i
 - ✅ Regression: Linear, Ridge | Classification: Logistic, Random Forest | Clustering: K-Means
 - ✅ Auto evaluation: RMSE, Accuracy, Silhouette Score
 
-🔗 [Open in Google Colab](#)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
 
 ---
 
-### 🏆 3. Retail Sales Analytics Dashboard
+### 🏆 4. Retail Sales Analytics Dashboard
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-512BD4?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -95,7 +115,7 @@ I transform raw data into actionable intelligence through predictive modeling, i
 - ✅ Optimized inventory planning — reduced stockouts by 15%
 - ✅ Improved reporting efficiency by 70%
 
-🔗 [Open in Google Colab](#)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
 
 ---
 
@@ -108,6 +128,7 @@ I transform raw data into actionable intelligence through predictive modeling, i
 
 ### 🎯 Key Achievements
 
+- ✅ Built garbage classification CNN with ResNet50 Transfer Learning
 - ✅ Built churn prediction model with **86% accuracy**
 - ✅ Created automated Power BI dashboards for KPI tracking
 - ✅ Improved marketing campaign ROI by **20%**
