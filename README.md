@@ -1,42 +1,66 @@
-Peter Raafat Adly Ibrahim
+👨‍💻 Peter Raafat Adly Ibrahim
 
-Data Scientist | Machine Learning Engineer | Data Analyst
+Data Scientist
+ML Engineer
+Data Analyst
 
 LinkedInGitHubEmailLocation
-🌐 View Full Portfolio | 📄 Download CV
-👨‍💻 About Me
+
+🌐 View Full Portfolio  |  📄 Download CV
+📌 Overview
 
 Aspiring Data Scientist with strong foundations in Artificial Intelligence, Machine Learning, and Data Analytics. I transform raw data into actionable intelligence through predictive modeling, interactive dashboards, and data-driven insights.
 
-Currently pursuing my B.Sc. in Data Science at Menoufia University's Faculty of Artificial Intelligence (2023–2027).
-🔬 Technical Skills
+PythonSQLScikit-learnPyTorchPower BIGit
+🛠️ Technical Skills
 Category	Technologies
 Programming	Python, SQL
-ML / Deep Learning	Scikit-learn, PyTorch, XGBoost, Random Forest, CNN, NLP, Reinforcement Learning
-Data Analysis	Pandas, NumPy, Matplotlib, Seaborn, Power BI, DAX
-Databases	MySQL
+ML/DL	Scikit-learn, PyTorch, XGBoost, Random Forest, CNN, NLP, Reinforcement Learning
+Analysis	Pandas, NumPy, Matplotlib, Seaborn, Power BI, DAX
+Database	MySQL
 Tools	Git/GitHub, Google Colab, Jupyter, Excel, ETL Pipelines
 📊 Featured Projects
 🏆 1. Customer Churn Prediction
 
-    ML model achieving 86% accuracy using Random Forest, Logistic Regression & XGBoost. Improved marketing ROI by 20% through audience segmentation.
+PythonXGBoostScikit-learnPower BI
 
-Python XGBoost Random Forest Scikit-learn Power BI
+    ML model achieving 86% accuracy using Random Forest, Logistic Regression & XGBoost. Improved marketing ROI by 20% through audience segmentation and channel optimization.
+
+    ✅ Trained and compared 3 classification algorithms
+    ✅ Identified key churn drivers through feature importance analysis
+    ✅ Built automated Power BI dashboards for KPI tracking
+    ✅ Delivered insights improving marketing ROI by 20%
+
+🔗 Open in Google Colab
 🏆 2. ML Desktop Application
+
+PythonCustomTkinterScikit-learnMatplotlib
 
     End-to-end ML app with CustomTkinter GUI — regression, classification & clustering with automated evaluation metrics and visualizations.
 
-Python CustomTkinter K-Means Scikit-learn Matplotlib
+    ✅ User-friendly GUI built with CustomTkinter
+    ✅ Data preprocessing: scaling, encoding, missing values
+    ✅ Regression: Linear, Ridge | Classification: Logistic, Random Forest | Clustering: K-Means
+    ✅ Auto evaluation: RMSE, Accuracy, Silhouette Score
+
+🔗 Open in Google Colab
 🏆 3. Retail Sales Analytics Dashboard
+
+Power BIDAXPythonPandas
 
     Interactive Power BI dashboard analyzing 50k+ retail records. Reduced stockouts by 15%, improved reporting efficiency by 70%.
 
-Power BI DAX Power Query Python EDA
+    ✅ Cleaned and analyzed 50k+ records using Power Query & DAX
+    ✅ Tracked: revenue, monthly growth %, retention, top products
+    ✅ Optimized inventory planning — reduced stockouts by 15%
+    ✅ Improved reporting efficiency by 70%
+
+🔗 Open in Google Colab
 💼 Experience
-Role	Organization	Period
-Data Scientist	Freelance Projects	Aug 2023 – Present
+Role	Type	Period
+Data Scientist	Freelance	Aug 2023 – Present
 Junior Data Analyst	Internship	Aug 2023
-Key Achievements:
+🎯 Key Achievements
 
     ✅ Built churn prediction model with 86% accuracy
     ✅ Created automated Power BI dashboards for KPI tracking
@@ -46,22 +70,27 @@ Key Achievements:
 
 📜 Education
 
-B.Sc. in Data Science — Menoufia University, Faculty of Artificial Intelligence(2023 – 2027, Expected)
+Menoufia UniversityFaculty of AI2023–2027
 
-Relevant Coursework: Data Analytics, Data Science, Machine Learning, Computer Vision, Deep Learning, NLP, Reinforcement Learning, Statistics, Big Data
+B.Sc. in Data Science — Menoufia University, Faculty of Artificial Intelligence (Expected 2027)
+Course	Course	Course
+Data Analytics	Machine Learning	Computer Vision
+Deep Learning	NLP	Reinforcement Learning
+Statistics	Big Data	Artificial Intelligence
 🏅 Certifications & Awards
 Credential	Institution	Details
 🥇 Data Analytics Certificate	NTI	120 Hours (2025)
 🥈 AI & ML Summer Code Camp	ITI	72 Hours (2025)
-⭐ Dean's List	Menoufia University	Academic Excellence
+⭐ Dean's List	Menoufia	Academic Excellence
 📈 GitHub Stats
     
 📫 Contact Me
-Method	Link
+Method	Details
 📧 Email	peterrafat263@gmail.com
 📱 Phone	+20 127 513 6193
 💼 LinkedIn	linkedin.com/in/peter-raafat-5961592b4
 🐙 GitHub	github.com/PeterRaafat456
+🌐 Portfolio	peterraafat456.github.io
 
 Built with ❤️ by Peter Raafat
 
